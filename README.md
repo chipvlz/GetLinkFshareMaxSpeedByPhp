@@ -11,3 +11,4 @@ git clone https://github.com/captainco/GetLinkFshareMaxSpeedByPhp.git
 ```
 php index.php
 ```
+### Step 3: Choose a [Fshare](https://www.fshare.vn/) and get link to download with max speed
