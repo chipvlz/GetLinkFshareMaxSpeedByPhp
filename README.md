@@ -1,3 +1,1 @@
-WELCOME TO CAPTAINCO
---------------------
-THIS IS CODE GET LINK FSHARE MAX SPEED BY PHP
+# get-link-fshare-php
